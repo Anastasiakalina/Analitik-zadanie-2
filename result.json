@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "sentiment": "positive",
+    "topic": "3D Touch, батарея, дизайн"
+  },
+  {
+    "id": 2,
+    "sentiment": "negative",
+    "topic": "температура, батарея"
+  },
+  {
+    "id": 3,
+    "sentiment": "negative",
+    "topic": "инновации, цена, характеристики"
+  },
+  {
+    "id": 4,
+    "sentiment": "neutral",
+    "topic": "размеры, дизайн"
+  },
+  {
+    "id": 5,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 6,
+    "sentiment": "neutral",
+    "topic": "модель и цвет"
+  },
+  {
+    "id": 7,
+    "sentiment": "positive",
+    "topic": "дизайн и функции"
+  },
+  {
+    "id": 8,
+    "sentiment": "positive",
+    "topic": "дизайн и камера"
+  },
+  {
+    "id": 9,
+    "sentiment": "positive",
+    "topic": "дизайн и камера"
+  },
+  {
+    "id": 10,
+    "sentiment": "mixed",
+    "topic": "память и цена"
+  },
+  {
+    "id": 11,
+    "sentiment": "negative",
+    "topic": "защитное стекло, батарея, чехол"
+  },
+  {
+    "id": 12,
+    "sentiment": "positive",
+    "topic": "производительность, iOS10"
+  },
+  {
+    "id": 13,
+    "sentiment": "neutral",
+    "topic": "качество, дизайн, глюки"
+  },
+  {
+    "id": 14,
+    "sentiment": "neutral",
+    "topic": "батарея, дизайн"
+  },
+  {
+    "id": 15,
+    "sentiment": "positive",
+    "topic": "производительность, батарея, камера"
+  },
+  {
+    "id": 16,
+    "sentiment": "positive",
+    "topic": "прочность память"
+  },
+  {
+    "id": 17,
+    "sentiment": "positive",
+    "topic": "дизайн качество"
+  },
+  {
+    "id": 18,
+    "sentiment": "positive",
+    "topic": "удобство цена"
+  },
+  {
+    "id": 19,
+    "sentiment": "negative",
+    "topic": "проблемы софт"
+  },
+  {
+    "id": 20,
+    "sentiment": "negative",
+    "topic": "проблемы синхронизация"
+  },
+  {
+    "id": 21,
+    "sentiment": "positive",
+    "topic": "Камера и экран"
+  },
+  {
+    "id": 22,
+    "sentiment": "negative",
+    "topic": "Аккумулятор и качество"
+  },
+  {
+    "id": 23,
+    "sentiment": "neutral",
+    "topic": "Камера и память"
+  },
+  {
+    "id": 24,
+    "sentiment": "positive",
+    "topic": "Эксплуатация и миграция"
+  },
+  {
+    "id": 25,
+    "sentiment": "positive",
+    "topic": "Удобство и качество"
+  },
+  {
+    "id": 26,
+    "sentiment": "positive",
+    "topic": "качество сборки"
+  },
+  {
+    "id": 27,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 28,
+    "sentiment": "negative",
+    "topic": "аккумулятор"
+  },
+  {
+    "id": 29,
+    "sentiment": "positive",
+    "topic": "удобство использования"
+  },
+  {
+    "id": 30,
+    "sentiment": "positive",
+    "topic": "быстродействие"
+  },
+  {
+    "id": 31,
+    "sentiment": "positive",
+    "topic": "качество и функциональность"
+  },
+  {
+    "id": 32,
+    "sentiment": "neutral",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 33,
+    "sentiment": "negative",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 34,
+    "sentiment": "positive",
+    "topic": "удовлетворение пользователя"
+  },
+  {
+    "id": 35,
+    "sentiment": "positive",
+    "topic": "качество и дизайн"
+  },
+  {
+    "id": 36,
+    "sentiment": "negative",
+    "topic": "цена и использование"
+  },
+  {
+    "id": 37,
+    "sentiment": "positive",
+    "topic": "качество и обновления"
+  },
+  {
+    "id": 38,
+    "sentiment": "negative",
+    "topic": "цена и альтернативы"
+  },
+  {
+    "id": 39,
+    "sentiment": "negative",
+    "topic": "ремонт и батарея"
+  },
+  {
+    "id": 40,
+    "sentiment": "positive",
+    "topic": "качество и функциональность"
+  },
+  {
+    "id": 41,
+    "sentiment": "positive",
+    "topic": "устойчивость к повреждениям"
+  },
+  {
+    "id": 42,
+    "sentiment": "negative",
+    "topic": "батарея и ПО"
+  },
+  {
+    "id": 43,
+    "sentiment": "neutral",
+    "topic": "сравнение с предыдущими моделями"
+  },
+  {
+    "id": 44,
+    "sentiment": "negative",
+    "topic": "качество и цена"
+  },
+  {
+    "id": 45,
+    "sentiment": "positive",
+    "topic": "качество и бренд"
+  },
+  {
+    "id": 46,
+    "sentiment": "neutral",
+    "topic": "цена и функциональность"
+  },
+  {
+    "id": 47,
+    "sentiment": "negative",
+    "topic": "модность и сборка"
+  },
+  {
+    "id": 48,
+    "sentiment": "negative",
+    "topic": "память и экран"
+  },
+  {
+    "id": 49,
+    "sentiment": "positive",
+    "topic": "дизайн и функциональность"
+  },
+  {
+    "id": 50,
+    "sentiment": "neutral",
+    "topic": "батарея и цена"
+  },
+  {
+    "id": 51,
+    "sentiment": "positive",
+    "topic": "общие впечатления"
+  },
+  {
+    "id": 52,
+    "sentiment": "positive",
+    "topic": "дизайн"
+  },
+  {
+    "id": 53,
+    "sentiment": "mixed",
+    "topic": "сравнение с другими моделями"
+  },
+  {
+    "id": 54,
+    "sentiment": "negative",
+    "topic": "батарея"
+  },
+  {
+    "id": 55,
+    "sentiment": "negative",
+    "topic": "аудио выход"
+  },
+  {
+    "id": 56,
+    "sentiment": "neutral",
+    "topic": "оболочка и лаунчер"
+  },
+  {
+    "id": 57,
+    "sentiment": "negative",
+    "topic": "качество и разочарование"
+  },
+  {
+    "id": 58,
+    "sentiment": "negative",
+    "topic": "батарея"
+  },
+  {
+    "id": 59,
+    "sentiment": "neutral",
+    "topic": "смена телефона"
+  },
+  {
+    "id": 60,
+    "sentiment": "negative",
+    "topic": "проблемы с прошивкой"
+  },
+  {
+    "id": 61,
+    "sentiment": "negative",
+    "topic": "глюки и перегрев"
+  },
+  {
+    "id": 62,
+    "sentiment": "positive",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 63,
+    "sentiment": "negative",
+    "topic": "глюки и неудобства"
+  },
+  {
+    "id": 64,
+    "sentiment": "neutral",
+    "topic": "цена"
+  },
+  {
+    "id": 65,
+    "sentiment": "negative",
+    "topic": "неоправданная цена"
+  },
+  {
+    "id": 66,
+    "sentiment": "positive",
+    "topic": "Долговечность и функциональность"
+  },
+  {
+    "id": 67,
+    "sentiment": "positive",
+    "topic": "Ожидания и уверенность"
+  },
+  {
+    "id": 68,
+    "sentiment": "negative",
+    "topic": "Проблемы с ремонтом"
+  },
+  {
+    "id": 69,
+    "sentiment": "negative",
+    "topic": "Проблемы со слышимостью"
+  },
+  {
+    "id": 70,
+    "sentiment": "positive",
+    "topic": "Переход с другого телефона"
+  },
+  {
+    "id": 71,
+    "sentiment": "positive",
+    "topic": "Общее впечатление"
+  },
+  {
+    "id": 72,
+    "sentiment": "negative",
+    "topic": "Браузер, батарея"
+  },
+  {
+    "id": 73,
+    "sentiment": "mixed",
+    "topic": "Устойчивость, батарея"
+  },
+  {
+    "id": 74,
+    "sentiment": "neutral",
+    "topic": "Тест-драйв, LTE"
+  },
+  {
+    "id": 75,
+    "sentiment": "positive",
+    "topic": "Камера, дисплей"
+  },
+  {
+    "id": 76,
+    "sentiment": "positive",
+    "topic": "работа и связь"
+  },
+  {
+    "id": 77,
+    "sentiment": "negative",
+    "topic": "ограниченный функционал"
+  },
+  {
+    "id": 78,
+    "sentiment": "negative",
+    "topic": "неудовлетворительный опыт"
+  },
+  {
+    "id": 79,
+    "sentiment": "positive",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 80,
+    "sentiment": "positive",
+    "topic": "цена и удобство"
+  },
+  {
+    "id": 81,
+    "sentiment": "negative",
+    "topic": "Проблемы с софтом"
+  },
+  {
+    "id": 82,
+    "sentiment": "negative",
+    "topic": "Не рекомендую"
+  },
+  {
+    "id": 83,
+    "sentiment": "neutral",
+    "topic": "Отсутствует текст"
+  },
+  {
+    "id": 84,
+    "sentiment": "mixed",
+    "topic": "Проблемы с сетью"
+  },
+  {
+    "id": 85,
+    "sentiment": "positive",
+    "topic": "Долговечность и функциональность"
+  },
+  {
+    "id": 86,
+    "sentiment": "positive",
+    "topic": "восторг, скорость, батарея"
+  },
+  {
+    "id": 87,
+    "sentiment": "neutral",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 88,
+    "sentiment": "positive",
+    "topic": "качество, батарея, камера"
+  },
+  {
+    "id": 89,
+    "sentiment": "mixed",
+    "topic": "дизайн, камера, удобство"
+  },
+  {
+    "id": 90,
+    "sentiment": "positive",
+    "topic": "стабильность, камера"
+  },
+  {
+    "id": 91,
+    "sentiment": "positive",
+    "topic": "батарея"
+  },
+  {
+    "id": 92,
+    "sentiment": "positive",
+    "topic": "обновление"
+  },
+  {
+    "id": 93,
+    "sentiment": "negative",
+    "topic": "брак"
+  },
+  {
+    "id": 94,
+    "sentiment": "positive",
+    "topic": "дисплей"
+  },
+  {
+    "id": 95,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 96,
+    "sentiment": "positive",
+    "topic": "iOS предпочтение"
+  },
+  {
+    "id": 97,
+    "sentiment": "positive",
+    "topic": "iPhone 6s сравнение"
+  },
+  {
+    "id": 98,
+    "sentiment": "positive",
+    "topic": "iPhone 5s и 6"
+  },
+  {
+    "id": 99,
+    "sentiment": "positive",
+    "topic": "стабильность и качество"
+  },
+  {
+    "id": 100,
+    "sentiment": "positive",
+    "topic": "качество, цена"
+  },
+  {
+    "id": 101,
+    "sentiment": "positive",
+    "topic": "экран, звук, дизайн"
+  },
+  {
+    "id": 102,
+    "sentiment": "positive",
+    "topic": "дизайн, экран, iOS"
+  },
+  {
+    "id": 103,
+    "sentiment": "negative",
+    "topic": "косяки, недовольство"
+  },
+  {
+    "id": 104,
+    "sentiment": "positive",
+    "topic": "батарея, стабильность"
+  },
+  {
+    "id": 105,
+    "sentiment": "neutral",
+    "topic": "синхронизация, цена"
+  },
+  {
+    "id": 106,
+    "sentiment": "positive",
+    "topic": "дизайн и удобство"
+  },
+  {
+    "id": 107,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 108,
+    "sentiment": "positive",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 109,
+    "sentiment": "neutral",
+    "topic": "акселерометр"
+  },
+  {
+    "id": 110,
+    "sentiment": "positive",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 111,
+    "sentiment": "positive",
+    "topic": "длительность использования"
+  },
+  {
+    "id": 112,
+    "sentiment": "neutral",
+    "topic": "недоработки"
+  },
+  {
+    "id": 113,
+    "sentiment": "positive",
+    "topic": "рекомендация"
+  },
+  {
+    "id": 114,
+    "sentiment": "negative",
+    "topic": "проблемы использования"
+  },
+  {
+    "id": 115,
+    "sentiment": "positive",
+    "topic": "общая оценка"
+  },
+  {
+    "id": 116,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 117,
+    "sentiment": "positive",
+    "topic": "качество сборки"
+  },
+  {
+    "id": 118,
+    "sentiment": "positive",
+    "topic": "удовлетворение"
+  },
+  {
+    "id": 119,
+    "sentiment": "neutral",
+    "topic": "функционал"
+  },
+  {
+    "id": 120,
+    "sentiment": "positive",
+    "topic": "соотношение цена-качество"
+  },
+  {
+    "id": 121,
+    "sentiment": "positive",
+    "topic": "батарея и функциональность"
+  },
+  {
+    "id": 122,
+    "sentiment": "neutral",
+    "topic": "производительность и функциональность"
+  },
+  {
+    "id": 123,
+    "sentiment": "neutral",
+    "topic": "батарея и камера"
+  },
+  {
+    "id": 124,
+    "sentiment": "mixed",
+    "topic": "батарея и стабильность"
+  },
+  {
+    "id": 125,
+    "sentiment": "positive",
+    "topic": "общая удовлетворенность"
+  },
+  {
+    "id": 126,
+    "sentiment": "positive",
+    "topic": "аккумулятор"
+  },
+  {
+    "id": 127,
+    "sentiment": "positive",
+    "topic": "прочность"
+  },
+  {
+    "id": 128,
+    "sentiment": "positive",
+    "topic": "аккумулятор, чехол"
+  },
+  {
+    "id": 129,
+    "sentiment": "positive",
+    "topic": "дизайн, камера, аккумулятор"
+  },
+  {
+    "id": 130,
+    "sentiment": "negative",
+    "topic": "стабильность"
+  },
+  {
+    "id": 131,
+    "sentiment": "positive",
+    "topic": "цена, аккумулятор"
+  },
+  {
+    "id": 132,
+    "sentiment": "neutral",
+    "topic": "общая оценка"
+  },
+  {
+    "id": 133,
+    "sentiment": "negative",
+    "topic": "аккумулятор"
+  },
+  {
+    "id": 134,
+    "sentiment": "neutral",
+    "topic": "цена, функциональность"
+  },
+  {
+    "id": 135,
+    "sentiment": "positive",
+    "topic": "общая оценка"
+  },
+  {
+    "id": 136,
+    "sentiment": "positive",
+    "topic": "Общий восторг"
+  },
+  {
+    "id": 137,
+    "sentiment": "negative",
+    "topic": "Тормоза и сбои"
+  },
+  {
+    "id": 138,
+    "sentiment": "mixed",
+    "topic": "Камера и звук"
+  },
+  {
+    "id": 139,
+    "sentiment": "positive",
+    "topic": "Хорошая модель"
+  },
+  {
+    "id": 140,
+    "sentiment": "neutral",
+    "topic": "Обычное использование"
+  },
+  {
+    "id": 141,
+    "sentiment": "negative",
+    "topic": "качество"
+  },
+  {
+    "id": 142,
+    "sentiment": "positive",
+    "topic": "цена"
+  },
+  {
+    "id": 143,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 144,
+    "sentiment": "positive",
+    "topic": "батарея"
+  },
+  {
+    "id": 145,
+    "sentiment": "negative",
+    "topic": "качество"
+  },
+  {
+    "id": 146,
+    "sentiment": "neutral",
+    "topic": "функциональность"
+  },
+  {
+    "id": 147,
+    "sentiment": "positive",
+    "topic": "надежность"
+  },
+  {
+    "id": 148,
+    "sentiment": "positive",
+    "topic": "практичность"
+  },
+  {
+    "id": 149,
+    "sentiment": "positive",
+    "topic": "аккумулятор"
+  },
+  {
+    "id": 150,
+    "sentiment": "neutral",
+    "topic": "производительность"
+  },
+  {
+    "id": 151,
+    "sentiment": "positive",
+    "topic": "удовлетворение"
+  },
+  {
+    "id": 152,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 153,
+    "sentiment": "positive",
+    "topic": "удовлетворение"
+  },
+  {
+    "id": 154,
+    "sentiment": "positive",
+    "topic": "удовлетворение"
+  },
+  {
+    "id": 155,
+    "sentiment": "neutral",
+    "topic": "интерфейс"
+  },
+  {
+    "id": 156,
+    "sentiment": "positive",
+    "topic": "цена, батарея"
+  },
+  {
+    "id": 157,
+    "sentiment": "positive",
+    "topic": "батарея, функционал"
+  },
+  {
+    "id": 158,
+    "sentiment": "mixed",
+    "topic": "память, камера"
+  },
+  {
+    "id": 159,
+    "sentiment": "positive",
+    "topic": "цена, прошивка"
+  },
+  {
+    "id": 160,
+    "sentiment": "negative",
+    "topic": "батарея, камера, GPS"
+  },
+  {
+    "id": 161,
+    "sentiment": "neutral",
+    "topic": "батарея"
+  },
+  {
+    "id": 162,
+    "sentiment": "positive",
+    "topic": "цена, стабильность"
+  },
+  {
+    "id": 163,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 164,
+    "sentiment": "negative",
+    "topic": "проблемы с сенсором"
+  },
+  {
+    "id": 165,
+    "sentiment": "neutral",
+    "topic": "дизайн, игры"
+  },
+  {
+    "id": 166,
+    "sentiment": "positive",
+    "topic": "качество телефона"
+  },
+  {
+    "id": 167,
+    "sentiment": "neutral",
+    "topic": "выбор телефона"
+  },
+  {
+    "id": 168,
+    "sentiment": "negative",
+    "topic": "качество телефона"
+  },
+  {
+    "id": 169,
+    "sentiment": "negative",
+    "topic": "недостатки телефона"
+  },
+  {
+    "id": 170,
+    "sentiment": "positive",
+    "topic": "удовлетворение требованиям"
+  },
+  {
+    "id": 171,
+    "sentiment": "negative",
+    "topic": "качество"
+  },
+  {
+    "id": 172,
+    "sentiment": "negative",
+    "topic": "производительность"
+  },
+  {
+    "id": 173,
+    "sentiment": "positive",
+    "topic": "камера"
+  },
+  {
+    "id": 174,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 175,
+    "sentiment": "negative",
+    "topic": "обновление ПО"
+  },
+  {
+    "id": 176,
+    "sentiment": "neutral",
+    "topic": "цена"
+  },
+  {
+    "id": 177,
+    "sentiment": "negative",
+    "topic": "качество"
+  },
+  {
+    "id": 178,
+    "sentiment": "negative",
+    "topic": "технические проблемы"
+  },
+  {
+    "id": 179,
+    "sentiment": "negative",
+    "topic": "цена"
+  },
+  {
+    "id": 180,
+    "sentiment": "mixed",
+    "topic": "экран, Wi-Fi, Android"
+  },
+  {
+    "id": 181,
+    "sentiment": "negative",
+    "topic": "Разочарование"
+  },
+  {
+    "id": 182,
+    "sentiment": "neutral",
+    "topic": "Сравнение моделей"
+  },
+  {
+    "id": 183,
+    "sentiment": "positive",
+    "topic": "Неплохое впечатление"
+  },
+  {
+    "id": 184,
+    "sentiment": "negative",
+    "topic": "Критика дизайна"
+  },
+  {
+    "id": 185,
+    "sentiment": "positive",
+    "topic": "Хороший телефон"
+  },
+  {
+    "id": 186,
+    "sentiment": "neutral",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 187,
+    "sentiment": "negative",
+    "topic": "дизайн и функции"
+  },
+  {
+    "id": 188,
+    "sentiment": "positive",
+    "topic": "обновления и функции"
+  },
+  {
+    "id": 189,
+    "sentiment": "positive",
+    "topic": "обслуживание"
+  },
+  {
+    "id": 190,
+    "sentiment": "positive",
+    "topic": "дизайн и технические характеристики"
+  },
+  {
+    "id": 191,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 192,
+    "sentiment": "negative",
+    "topic": "сравнение с предыдущим"
+  },
+  {
+    "id": 193,
+    "sentiment": "negative",
+    "topic": "качество сборки"
+  },
+  {
+    "id": 194,
+    "sentiment": "negative",
+    "topic": "недовольство"
+  },
+  {
+    "id": 195,
+    "sentiment": "positive",
+    "topic": "стабильность работы"
+  },
+  {
+    "id": 196,
+    "sentiment": "neutral",
+    "topic": "аккумулятор"
+  },
+  {
+    "id": 197,
+    "sentiment": "positive",
+    "topic": "общая удовлетворенность"
+  },
+  {
+    "id": 198,
+    "sentiment": "negative",
+    "topic": "возврат"
+  },
+  {
+    "id": 199,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 200,
+    "sentiment": "positive",
+    "topic": "камера"
+  },
+  {
+    "id": 201,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 202,
+    "sentiment": "neutral",
+    "topic": "хороший телефон"
+  },
+  {
+    "id": 203,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 204,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 205,
+    "sentiment": "negative",
+    "topic": "аккумулятор проблема"
+  },
+  {
+    "id": 206,
+    "sentiment": "positive",
+    "topic": "общие впечатления"
+  },
+  {
+    "id": 207,
+    "sentiment": "positive",
+    "topic": "производительность"
+  },
+  {
+    "id": 208,
+    "sentiment": "positive",
+    "topic": "камеры и дизайн"
+  },
+  {
+    "id": 209,
+    "sentiment": "negative",
+    "topic": "надежность и проблемы"
+  },
+  {
+    "id": 210,
+    "sentiment": "negative",
+    "topic": "качество сборки"
+  },
+  {
+    "id": 211,
+    "sentiment": "neutral",
+    "topic": "приобретение"
+  },
+  {
+    "id": 212,
+    "sentiment": "negative",
+    "topic": "проблемы с прошивкой"
+  },
+  {
+    "id": 213,
+    "sentiment": "negative",
+    "topic": "технические проблемы"
+  },
+  {
+    "id": 214,
+    "sentiment": "negative",
+    "topic": "технические недостатки"
+  },
+  {
+    "id": 215,
+    "sentiment": "negative",
+    "topic": "не рекомендация"
+  },
+  {
+    "id": 216,
+    "sentiment": "negative",
+    "topic": "брак микрофон"
+  },
+  {
+    "id": 217,
+    "sentiment": "negative",
+    "topic": "камера батарея"
+  },
+  {
+    "id": 218,
+    "sentiment": "negative",
+    "topic": "неудобный телефон"
+  },
+  {
+    "id": 219,
+    "sentiment": "negative",
+    "topic": "батарея"
+  },
+  {
+    "id": 220,
+    "sentiment": "negative",
+    "topic": "тормоза 4g"
+  },
+  {
+    "id": 241,
+    "sentiment": "neutral",
+    "topic": "функциональность"
+  },
+  {
+    "id": 242,
+    "sentiment": "positive",
+    "topic": "удовлетворенность"
+  },
+  {
+    "id": 243,
+    "sentiment": "positive",
+    "topic": "надежность"
+  },
+  {
+    "id": 244,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 245,
+    "sentiment": "negative",
+    "topic": "недостатки"
+  },
+  {
+    "id": 246,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 247,
+    "sentiment": "positive",
+    "topic": "батарея"
+  },
+  {
+    "id": 248,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 249,
+    "sentiment": "negative",
+    "topic": "экран"
+  },
+  {
+    "id": 250,
+    "sentiment": "neutral",
+    "topic": "экран, функционал"
+  },
+  {
+    "id": 251,
+    "sentiment": "positive",
+    "topic": "качество и цена"
+  },
+  {
+    "id": 252,
+    "sentiment": "positive",
+    "topic": "производительность"
+  },
+  {
+    "id": 253,
+    "sentiment": "negative",
+    "topic": "корпус"
+  },
+  {
+    "id": 254,
+    "sentiment": "positive",
+    "topic": "производительность и камера"
+  },
+  {
+    "id": 255,
+    "sentiment": "positive",
+    "topic": "дизайн и производительность"
+  },
+  {
+    "id": 256,
+    "sentiment": "positive",
+    "topic": "качество и функции"
+  },
+  {
+    "id": 257,
+    "sentiment": "neutral",
+    "topic": "выбор и функции"
+  },
+  {
+    "id": 258,
+    "sentiment": "negative",
+    "topic": "производительность и сим-карты"
+  },
+  {
+    "id": 259,
+    "sentiment": "neutral",
+    "topic": "надежность и ремонт"
+  },
+  {
+    "id": 260,
+    "sentiment": "neutral",
+    "topic": "покупка и качество"
+  },
+  {
+    "id": 261,
+    "sentiment": "neutral",
+    "topic": "экран, батарея, звук"
+  },
+  {
+    "id": 262,
+    "sentiment": "negative",
+    "topic": "тормоза, камера, сборка"
+  },
+  {
+    "id": 263,
+    "sentiment": "positive",
+    "topic": "надежность, ремонт"
+  },
+  {
+    "id": 264,
+    "sentiment": "negative",
+    "topic": "надежность, кнопки, интернет"
+  },
+  {
+    "id": 265,
+    "sentiment": "negative",
+    "topic": "gps, тормоза, кнопки"
+  },
+  {
+    "id": 266,
+    "sentiment": "positive",
+    "topic": "длительная служба"
+  },
+  {
+    "id": 267,
+    "sentiment": "negative",
+    "topic": "частые поломки"
+  },
+  {
+    "id": 268,
+    "sentiment": "positive",
+    "topic": "надежность"
+  },
+  {
+    "id": 269,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 270,
+    "sentiment": "positive",
+    "topic": "уникальные возможности"
+  },
+  {
+    "id": 271,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 272,
+    "sentiment": "positive",
+    "topic": "достоинства телефона"
+  },
+  {
+    "id": 273,
+    "sentiment": "neutral",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 274,
+    "sentiment": "negative",
+    "topic": "нестабильная связь"
+  },
+  {
+    "id": 275,
+    "sentiment": "negative",
+    "topic": "качество продукта"
+  },
+  {
+    "id": 276,
+    "sentiment": "neutral",
+    "topic": "отсутствие телефона"
+  },
+  {
+    "id": 277,
+    "sentiment": "negative",
+    "topic": "проблемы с батареей и производительностью"
+  },
+  {
+    "id": 278,
+    "sentiment": "negative",
+    "topic": "проблемы с батареей и сенсором"
+  },
+  {
+    "id": 279,
+    "sentiment": "positive",
+    "topic": "хороший телефон"
+  },
+  {
+    "id": 280,
+    "sentiment": "negative",
+    "topic": "ненадежность и проблемы с кнопкой"
+  },
+  {
+    "id": 281,
+    "sentiment": "neutral",
+    "topic": "зарядка и функции"
+  },
+  {
+    "id": 282,
+    "sentiment": "positive",
+    "topic": "рекомендация"
+  },
+  {
+    "id": 283,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 284,
+    "sentiment": "positive",
+    "topic": "экран и функциональность"
+  },
+  {
+    "id": 285,
+    "sentiment": "positive",
+    "topic": "функциональность и цена"
+  },
+  {
+    "id": 286,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 287,
+    "sentiment": "positive",
+    "topic": "удовольствие пользования"
+  },
+  {
+    "id": 288,
+    "sentiment": "positive",
+    "topic": "устаревший но хороший"
+  },
+  {
+    "id": 289,
+    "sentiment": "neutral",
+    "topic": "первый опыт"
+  },
+  {
+    "id": 290,
+    "sentiment": "positive",
+    "topic": "сравнение с другими"
+  },
+  {
+    "id": 291,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 292,
+    "sentiment": "positive",
+    "topic": "качество плюсы"
+  },
+  {
+    "id": 293,
+    "sentiment": "mixed",
+    "topic": "качество минусы"
+  },
+  {
+    "id": 294,
+    "sentiment": "positive",
+    "topic": "качество удобство"
+  },
+  {
+    "id": 295,
+    "sentiment": "positive",
+    "topic": "длительность службы"
+  },
+  {
+    "id": 296,
+    "sentiment": "positive",
+    "topic": "цена/качество"
+  },
+  {
+    "id": 297,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 298,
+    "sentiment": "positive",
+    "topic": "качество"
+  },
+  {
+    "id": 299,
+    "sentiment": "positive",
+    "topic": "автономность"
+  },
+  {
+    "id": 300,
+    "sentiment": "positive",
+    "topic": "автономность, камера"
+  },
+  {
+    "id": 301,
+    "sentiment": "positive",
+    "topic": "приложения динамик"
+  },
+  {
+    "id": 302,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 303,
+    "sentiment": "negative",
+    "topic": "не буду брать"
+  },
+  {
+    "id": 304,
+    "sentiment": "positive",
+    "topic": "цена качество"
+  },
+  {
+    "id": 305,
+    "sentiment": "positive",
+    "topic": "экран автономность"
+  },
+  {
+    "id": 306,
+    "sentiment": "positive",
+    "topic": "экран, обновление"
+  },
+  {
+    "id": 307,
+    "sentiment": "positive",
+    "topic": "лучший телефон"
+  },
+  {
+    "id": 308,
+    "sentiment": "positive",
+    "topic": "скорость, автономность"
+  },
+  {
+    "id": 309,
+    "sentiment": "negative",
+    "topic": "обновление ОС"
+  },
+  {
+    "id": 310,
+    "sentiment": "positive",
+    "topic": "цена-качество, прочность"
+  },
+  {
+    "id": 311,
+    "sentiment": "neutral",
+    "topic": "скользкость, чехол"
+  },
+  {
+    "id": 312,
+    "sentiment": "negative",
+    "topic": "экран, глюки"
+  },
+  {
+    "id": 313,
+    "sentiment": "negative",
+    "topic": "звук, качество"
+  },
+  {
+    "id": 314,
+    "sentiment": "positive",
+    "topic": "качество, удовлетворенность"
+  },
+  {
+    "id": 315,
+    "sentiment": "neutral",
+    "topic": "использование"
+  },
+  {
+    "id": 316,
+    "sentiment": "positive",
+    "topic": "производительность и функции"
+  },
+  {
+    "id": 317,
+    "sentiment": "positive",
+    "topic": "камера и батарея"
+  },
+  {
+    "id": 318,
+    "sentiment": "positive",
+    "topic": "качество и настройки"
+  },
+  {
+    "id": 319,
+    "sentiment": "positive",
+    "topic": "удобство использования"
+  },
+  {
+    "id": 320,
+    "sentiment": "neutral",
+    "topic": "отсутствие SD-слота"
+  },
+  {
+    "id": 321,
+    "sentiment": "negative",
+    "topic": "экран, камера"
+  },
+  {
+    "id": 322,
+    "sentiment": "positive",
+    "topic": "сервис, ремонт"
+  },
+  {
+    "id": 323,
+    "sentiment": "positive",
+    "topic": "функциональность, дизайн"
+  },
+  {
+    "id": 324,
+    "sentiment": "positive",
+    "topic": "стабильность, камера"
+  },
+  {
+    "id": 325,
+    "sentiment": "neutral",
+    "topic": "экран, батарея"
+  },
+  {
+    "id": 326,
+    "sentiment": "neutral",
+    "topic": "экран, производительность"
+  },
+  {
+    "id": 327,
+    "sentiment": "positive",
+    "topic": "экран, автономность, камера"
+  },
+  {
+    "id": 328,
+    "sentiment": "positive",
+    "topic": "удобство использования"
+  },
+  {
+    "id": 329,
+    "sentiment": "positive",
+    "topic": "производительность, автономность"
+  },
+  {
+    "id": 330,
+    "sentiment": "positive",
+    "topic": "общая оценка"
+  },
+  {
+    "id": 331,
+    "sentiment": "positive",
+    "topic": "музыка и память"
+  },
+  {
+    "id": 332,
+    "sentiment": "positive",
+    "topic": "функциональность"
+  },
+  {
+    "id": 333,
+    "sentiment": "mixed",
+    "topic": "производительность и дефекты"
+  },
+  {
+    "id": 334,
+    "sentiment": "positive",
+    "topic": "функции и батарея"
+  },
+  {
+    "id": 335,
+    "sentiment": "positive",
+    "topic": "общая оценка"
+  },
+  {
+    "id": 336,
+    "sentiment": "positive",
+    "topic": "удачная модель"
+  },
+  {
+    "id": 337,
+    "sentiment": "positive",
+    "topic": "качество и функциональность"
+  },
+  {
+    "id": 338,
+    "sentiment": "positive",
+    "topic": "качество и софт"
+  },
+  {
+    "id": 339,
+    "sentiment": "positive",
+    "topic": "удовлетворенность женой"
+  },
+  {
+    "id": 340,
+    "sentiment": "positive",
+    "topic": "рекомендация"
+  },
+  {
+    "id": 341,
+    "sentiment": "negative",
+    "topic": "память, Wi-Fi"
+  },
+  {
+    "id": 342,
+    "sentiment": "positive",
+    "topic": "дизайн, функциональность"
+  },
+  {
+    "id": 343,
+    "sentiment": "positive",
+    "topic": "производительность, камера"
+  },
+  {
+    "id": 344,
+    "sentiment": "negative",
+    "topic": "удобство, программное обеспечение"
+  },
+  {
+    "id": 345,
+    "sentiment": "positive",
+    "topic": "качество, сборка"
+  },
+  {
+    "id": 346,
+    "sentiment": "negative",
+    "topic": "память, Wi-Fi"
+  },
+  {
+    "id": 347,
+    "sentiment": "positive",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 348,
+    "sentiment": "neutral",
+    "topic": "общее впечатление"
+  },
+  {
+    "id": 349,
+    "sentiment": "positive",
+    "topic": "камера, плюсы"
+  },
+  {
+    "id": 350,
+    "sentiment": "negative",
+    "topic": "функциональность, тормоза"
+  },
+  {
+    "id": 351,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 352,
+    "sentiment": "negative",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 353,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 354,
+    "sentiment": "positive",
+    "topic": "качество"
+  },
+  {
+    "id": 355,
+    "sentiment": "negative",
+    "topic": "звук"
+  },
+  {
+    "id": 356,
+    "sentiment": "positive",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 357,
+    "sentiment": "negative",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 358,
+    "sentiment": "negative",
+    "topic": "iOS"
+  },
+  {
+    "id": 359,
+    "sentiment": "positive",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 360,
+    "sentiment": "neutral",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 361,
+    "sentiment": "mixed",
+    "topic": "цена"
+  },
+  {
+    "id": 362,
+    "sentiment": "positive",
+    "topic": "производительность"
+  },
+  {
+    "id": 363,
+    "sentiment": "positive",
+    "topic": "дизайн и камера"
+  },
+  {
+    "id": 364,
+    "sentiment": "negative",
+    "topic": "характеристики и цена"
+  },
+  {
+    "id": 365,
+    "sentiment": "mixed",
+    "topic": "камера и батарея"
+  },
+  {
+    "id": 366,
+    "sentiment": "neutral",
+    "topic": "покупка, память, версии"
+  },
+  {
+    "id": 367,
+    "sentiment": "positive",
+    "topic": "дизайн, экран, iOS"
+  },
+  {
+    "id": 368,
+    "sentiment": "negative",
+    "topic": "микрофон, качество, сборка"
+  },
+  {
+    "id": 369,
+    "sentiment": "positive",
+    "topic": "телефон, андроид"
+  },
+  {
+    "id": 370,
+    "sentiment": "neutral",
+    "topic": "цена, возможности"
+  },
+  {
+    "id": 371,
+    "sentiment": "neutral",
+    "topic": "сравнение ОС"
+  },
+  {
+    "id": 372,
+    "sentiment": "positive",
+    "topic": "функциональность"
+  },
+  {
+    "id": 373,
+    "sentiment": "negative",
+    "topic": "надежность"
+  },
+  {
+    "id": 374,
+    "sentiment": "negative",
+    "topic": "устаревание"
+  },
+  {
+    "id": 375,
+    "sentiment": "neutral",
+    "topic": "покупка и использование"
+  },
+  {
+    "id": 376,
+    "sentiment": "neutral",
+    "topic": "размер и удобство"
+  },
+  {
+    "id": 377,
+    "sentiment": "negative",
+    "topic": "разочарование и критика"
+  },
+  {
+    "id": 378,
+    "sentiment": "negative",
+    "topic": "разочарование"
+  },
+  {
+    "id": 379,
+    "sentiment": "negative",
+    "topic": "рекомендация"
+  },
+  {
+    "id": 380,
+    "sentiment": "positive",
+    "topic": "качество и стабильность"
+  },
+  {
+    "id": 381,
+    "sentiment": "positive",
+    "topic": "Камера и экран"
+  },
+  {
+    "id": 382,
+    "sentiment": "positive",
+    "topic": "Прочность и долговечность"
+  },
+  {
+    "id": 383,
+    "sentiment": "positive",
+    "topic": "Производительность и камера"
+  },
+  {
+    "id": 384,
+    "sentiment": "neutral",
+    "topic": "Долговечность и защита"
+  },
+  {
+    "id": 385,
+    "sentiment": "negative",
+    "topic": "Батарея и камера"
+  },
+  {
+    "id": 386,
+    "sentiment": "positive",
+    "topic": "размер и функциональность"
+  },
+  {
+    "id": 387,
+    "sentiment": "negative",
+    "topic": "защитное стекло и батарея"
+  },
+  {
+    "id": 388,
+    "sentiment": "negative",
+    "topic": "общие недостатки"
+  },
+  {
+    "id": 389,
+    "sentiment": "neutral",
+    "topic": "размер и функциональность"
+  },
+  {
+    "id": 390,
+    "sentiment": "negative",
+    "topic": "операционная система"
+  },
+  {
+    "id": 391,
+    "sentiment": "positive",
+    "topic": "Apple лояльность"
+  },
+  {
+    "id": 392,
+    "sentiment": "neutral",
+    "topic": "Модель выбор"
+  },
+  {
+    "id": 393,
+    "sentiment": "positive",
+    "topic": "Рекомендация"
+  },
+  {
+    "id": 394,
+    "sentiment": "negative",
+    "topic": "Зарядка проблемы"
+  },
+  {
+    "id": 395,
+    "sentiment": "positive",
+    "topic": "Обзор позитивный"
+  },
+  {
+    "id": 396,
+    "sentiment": "negative",
+    "topic": "отрицательные эмоции"
+  },
+  {
+    "id": 397,
+    "sentiment": "neutral",
+    "topic": "доволен на 65%-70%"
+  },
+  {
+    "id": 398,
+    "sentiment": "negative",
+    "topic": "огорчен 6кой"
+  },
+  {
+    "id": 399,
+    "sentiment": "positive",
+    "topic": "довольна всем"
+  },
+  {
+    "id": 400,
+    "sentiment": "neutral",
+    "topic": "рекомендую к покупке"
+  },
+  {
+    "id": 401,
+    "sentiment": "positive",
+    "topic": "качество и функциональность"
+  },
+  {
+    "id": 402,
+    "sentiment": "negative",
+    "topic": "не рекомендация"
+  },
+  {
+    "id": 403,
+    "sentiment": "positive",
+    "topic": "дизайн и удобство"
+  },
+  {
+    "id": 404,
+    "sentiment": "positive",
+    "topic": "ценность и удовольствие"
+  },
+  {
+    "id": 405,
+    "sentiment": "negative",
+    "topic": "утрата качества"
+  },
+  {
+    "id": 406,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 407,
+    "sentiment": "positive",
+    "topic": "функциональность"
+  },
+  {
+    "id": 408,
+    "sentiment": "mixed",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 409,
+    "sentiment": "positive",
+    "topic": "батарея и экран"
+  },
+  {
+    "id": 410,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 411,
+    "sentiment": "neutral",
+    "topic": "сравнение с Android"
+  },
+  {
+    "id": 412,
+    "sentiment": "neutral",
+    "topic": "взрослый гаджет"
+  },
+  {
+    "id": 413,
+    "sentiment": "positive",
+    "topic": "сравнение с 4S"
+  },
+  {
+    "id": 414,
+    "sentiment": "positive",
+    "topic": "переход с 5S"
+  },
+  {
+    "id": 415,
+    "sentiment": "positive",
+    "topic": "удовлетворение дочки"
+  },
+  {
+    "id": 416,
+    "sentiment": "mixed",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 417,
+    "sentiment": "positive",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 418,
+    "sentiment": "negative",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 419,
+    "sentiment": "negative",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 420,
+    "sentiment": "positive",
+    "topic": "iPhone 6"
+  },
+  {
+    "id": 421,
+    "sentiment": "negative",
+    "topic": "цена и качество"
+  },
+  {
+    "id": 422,
+    "sentiment": "positive",
+    "topic": "удобство и батарея"
+  },
+  {
+    "id": 423,
+    "sentiment": "positive",
+    "topic": "дизайн и ощущения"
+  },
+  {
+    "id": 424,
+    "sentiment": "negative",
+    "topic": "конкурентоспособность"
+  },
+  {
+    "id": 425,
+    "sentiment": "positive",
+    "topic": "качество и батарея"
+  },
+  {
+    "id": 426,
+    "sentiment": "neutral",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 427,
+    "sentiment": "positive",
+    "topic": "качество Apple"
+  },
+  {
+    "id": 428,
+    "sentiment": "neutral",
+    "topic": "сравнение моделей"
+  },
+  {
+    "id": 429,
+    "sentiment": "positive",
+    "topic": "опыт использования"
+  },
+  {
+    "id": 430,
+    "sentiment": "negative",
+    "topic": "цена-функциональность"
+  },
+  {
+    "id": 431,
+    "sentiment": "neutral",
+    "topic": "выбор телефона"
+  },
+  {
+    "id": 432,
+    "sentiment": "positive",
+    "topic": "удовлетворение покупкой"
+  },
+  {
+    "id": 433,
+    "sentiment": "negative",
+    "topic": "разочарование в iPhone"
+  },
+  {
+    "id": 434,
+    "sentiment": "negative",
+    "topic": "разочарование в камере"
+  },
+  {
+    "id": 435,
+    "sentiment": "neutral",
+    "topic": "предложение копии"
+  },
+  {
+    "id": 436,
+    "sentiment": "neutral",
+    "topic": "цена и привыкание"
+  },
+  {
+    "id": 437,
+    "sentiment": "positive",
+    "topic": "надежность и производительность"
+  },
+  {
+    "id": 438,
+    "sentiment": "negative",
+    "topic": "ограниченность функций"
+  },
+  {
+    "id": 439,
+    "sentiment": "positive",
+    "topic": "удобство и дизайн"
+  },
+  {
+    "id": 440,
+    "sentiment": "negative",
+    "topic": "рекомендация к покупке"
+  },
+  {
+    "id": 441,
+    "sentiment": "neutral",
+    "topic": "Сравнение моделей"
+  },
+  {
+    "id": 442,
+    "sentiment": "positive",
+    "topic": "Общее впечатление"
+  },
+  {
+    "id": 443,
+    "sentiment": "positive",
+    "topic": "Сравнение с Android"
+  },
+  {
+    "id": 444,
+    "sentiment": "positive",
+    "topic": "История использования"
+  },
+  {
+    "id": 445,
+    "sentiment": "negative",
+    "topic": "Проблемы с устройством"
+  },
+  {
+    "id": 446,
+    "sentiment": "neutral",
+    "topic": "качество и отличия"
+  },
+  {
+    "id": 447,
+    "sentiment": "negative",
+    "topic": "негативное влияние"
+  },
+  {
+    "id": 448,
+    "sentiment": "neutral",
+    "topic": "совместимость и приложения"
+  },
+  {
+    "id": 449,
+    "sentiment": "negative",
+    "topic": "популярность и функциональность"
+  },
+  {
+    "id": 450,
+    "sentiment": "negative",
+    "topic": "проблемы и лаги"
+  },
+  {
+    "id": 451,
+    "sentiment": "positive",
+    "topic": "беспроблемная эксплуатация"
+  },
+  {
+    "id": 452,
+    "sentiment": "positive",
+    "topic": "классная модель"
+  },
+  {
+    "id": 453,
+    "sentiment": "neutral",
+    "topic": "рекомендации по защите"
+  },
+  {
+    "id": 454,
+    "sentiment": "negative",
+    "topic": "брак и проблемы"
+  },
+  {
+    "id": 455,
+    "sentiment": "positive",
+    "topic": "качественный продукт"
+  },
+  {
+    "id": 456,
+    "sentiment": "positive",
+    "topic": "качество телефона"
+  },
+  {
+    "id": 457,
+    "sentiment": "positive",
+    "topic": "экран и батарея"
+  },
+  {
+    "id": 458,
+    "sentiment": "positive",
+    "topic": "стабильность и батарея"
+  },
+  {
+    "id": 459,
+    "sentiment": "positive",
+    "topic": "цена и батарея"
+  },
+  {
+    "id": 460,
+    "sentiment": "positive",
+    "topic": "удовлетворенность"
+  },
+  {
+    "id": 461,
+    "sentiment": "positive",
+    "topic": "цена-качество"
+  },
+  {
+    "id": 462,
+    "sentiment": "positive",
+    "topic": "функциональность"
+  },
+  {
+    "id": 463,
+    "sentiment": "positive",
+    "topic": "качество"
+  },
+  {
+    "id": 464,
+    "sentiment": "neutral",
+    "topic": "недостатки"
+  },
+  {
+    "id": 465,
+    "sentiment": "neutral",
+    "topic": "цена"
+  },
+  {
+    "id": 466,
+    "sentiment": "negative",
+    "topic": "память, ухудшения"
+  },
+  {
+    "id": 467,
+    "sentiment": "positive",
+    "topic": "удовлетворение, камера, автономность"
+  },
+  {
+    "id": 468,
+    "sentiment": "neutral",
+    "topic": "ремонт, батарея, экран"
+  },
+  {
+    "id": 469,
+    "sentiment": "positive",
+    "topic": "рекомендация"
+  },
+  {
+    "id": 470,
+    "sentiment": "positive",
+    "topic": "батарея, интернет, NFC"
+  },
+  {
+    "id": 471,
+    "sentiment": "positive",
+    "topic": "камера, производительность"
+  },
+  {
+    "id": 472,
+    "sentiment": "positive",
+    "topic": "камера, баланс"
+  },
+  {
+    "id": 473,
+    "sentiment": "positive",
+    "topic": "качество, удобство"
+  },
+  {
+    "id": 474,
+    "sentiment": "positive",
+    "topic": "удобство, дизайн"
+  },
+  {
+    "id": 475,
+    "sentiment": "positive",
+    "topic": "доступность, технологичность"
+  },
+  {
+    "id": 476,
+    "sentiment": "positive",
+    "topic": "экран, звук, память"
+  },
+  {
+    "id": 477,
+    "sentiment": "positive",
+    "topic": "дисплей, камера, удобство"
+  },
+  {
+    "id": 478,
+    "sentiment": "neutral",
+    "topic": "голосовые команды"
+  },
+  {
+    "id": 479,
+    "sentiment": "positive",
+    "topic": "дизайн, камера, функции"
+  },
+  {
+    "id": 480,
+    "sentiment": "mixed",
+    "topic": "звук, батарея"
+  },
+  {
+    "id": 481,
+    "sentiment": "negative",
+    "topic": "звонки проблемы"
+  },
+  {
+    "id": 482,
+    "sentiment": "negative",
+    "topic": "производительность"
+  },
+  {
+    "id": 483,
+    "sentiment": "positive",
+    "topic": "камера"
+  },
+  {
+    "id": 484,
+    "sentiment": "positive",
+    "topic": "удовлетворение"
+  },
+  {
+    "id": 485,
+    "sentiment": "positive",
+    "topic": "дизайн характеристики"
+  },
+  {
+    "id": 486,
+    "sentiment": "positive",
+    "topic": "батарея и чехол"
+  },
+  {
+    "id": 487,
+    "sentiment": "positive",
+    "topic": "интернет и фото"
+  },
+  {
+    "id": 488,
+    "sentiment": "positive",
+    "topic": "дизайн и функционал"
+  },
+  {
+    "id": 489,
+    "sentiment": "positive",
+    "topic": "дизайн и видео"
+  },
+  {
+    "id": 490,
+    "sentiment": "positive",
+    "topic": "общая удовлетворенность"
+  },
+  {
+    "id": 491,
+    "sentiment": "negative",
+    "topic": "проблемы с обновлением"
+  },
+  {
+    "id": 492,
+    "sentiment": "positive",
+    "topic": "лучший вариант"
+  },
+  {
+    "id": 493,
+    "sentiment": "positive",
+    "topic": "прекрасный телефон"
+  },
+  {
+    "id": 494,
+    "sentiment": "negative",
+    "topic": "тормоза и поддержка"
+  },
+  {
+    "id": 495,
+    "sentiment": "positive",
+    "topic": "стильный дизайн"
+  },
+  {
+    "id": 496,
+    "sentiment": "positive",
+    "topic": "LG G3"
+  },
+  {
+    "id": 497,
+    "sentiment": "positive",
+    "topic": "LG G3 s"
+  },
+  {
+    "id": 498,
+    "sentiment": "negative",
+    "topic": "LG G3 s"
+  },
+  {
+    "id": 499,
+    "sentiment": "positive",
+    "topic": "HTS one"
+  },
+  {
+    "id": 500,
+    "sentiment": "positive",
+    "topic": "LG G3 s"
+  }
+]
